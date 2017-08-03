@@ -1,4 +1,4 @@
-# Truck_Allocation_System_Web_Application
+# Truck Allocation System Web Application
 Technologies / Frameworks used: JAVA EE, JSP - Servlets, bootstrap, HTML, CSS, JavaScript, Oracle 11G
 
 Truck allocation system: A Web portal which uses Google Maps API to determine the shortest route and trip cost based on the source and destination provided by the user and allocates a truck to the user for transportation based on the availability and completes the order by processing the payment.
